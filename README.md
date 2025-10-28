@@ -26,7 +26,7 @@ command `docker run -d --rm --name qa-practice-api -p8887:8081 rvancea/qa-practi
 
 - Implement positive & negative test cases in <b>step3(Shopping Details)</b> by following test cases as below:
   - Implement positive test cases input all required fields must be able to <b>Submit Order</b>
-  - Implement negative test cases input all required fields must `not` be able to <b>Submit Order</b>
+  - Implement negative test cases input some required fields must `not` be able to <b>Submit Order</b>
     ![Example Users List screen](src/assets/step3.png)
 
 <br/>
